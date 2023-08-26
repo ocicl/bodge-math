@@ -1,0 +1,9 @@
+* bodge-math
+
+Core math utilities of `bodge` library collection
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/borodust/bodge-math.git |
+| commit  | 9159b7f                                        |
+| systems | bodge-math                                     |
+|---------+------------------------------------------------|
